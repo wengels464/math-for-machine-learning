@@ -1,2 +1,2 @@
-#Chapter 2
-##Linear Algebra
+#Chapter 2#
+##Linear Algebra##
